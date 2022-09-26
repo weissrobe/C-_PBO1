@@ -1,0 +1,7 @@
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\bin\Debug\Tugas1_inheritance.exe.config
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\bin\Debug\Tugas1_inheritance.exe
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\bin\Debug\Tugas1_inheritance.pdb
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\obj\Debug\Tugas1_inheritance.csprojAssemblyReference.cache
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\obj\Debug\Tugas1_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\obj\Debug\Tugas1_inheritance.exe
+C:\Users\akbar\source\repos\Tugas1_inheritance\Tugas1_inheritance\obj\Debug\Tugas1_inheritance.pdb
